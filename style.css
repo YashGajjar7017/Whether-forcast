@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+html,body{
+    height: 100%;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.bg{
+    background-image: url(/Icons/animated/day.svg);
+    height: 100;
+}
